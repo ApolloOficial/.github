@@ -44,6 +44,12 @@ flowchart LR
     legacy["Banco legado"] --> rpa["RPA de migração"]
     rpa --> postgres
     visitors["Visitantes e equipes"] --> crud["apollo-web-crud"]
+
+    classDef platform fill:#292929,stroke:#F15A24,color:#FFFFFF,stroke-width:2px
+    classDef data fill:#FFF2E9,stroke:#F15A24,color:#292929,stroke-width:2px
+    class people,web,mobile,api,assistant,bi,indicators,visitors,crud,rpa platform
+    class postgres,events data
+    class legacy platform
 ```
 
 ## Equipes e repositórios
