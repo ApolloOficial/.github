@@ -72,7 +72,7 @@ O **primeiro ano** desenvolve a landing page e a área restrita com operações 
 
 Perfis públicos das 12 contas listadas como membros da organização no GitHub.
 
-<table width="100%">
+<table align="center">
   <tr>
     <td align="center"><a href="https://github.com/apollooficial2026-arch"><img src="https://github.com/apollooficial2026-arch.png?size=96" width="72" alt="Perfil de apollooficial2026-arch"><br><strong>apollooficial2026-arch</strong><br><sub>@apollooficial2026-arch</sub></a></td>
     <td align="center"><a href="https://github.com/EnzoDangioMota"><img src="https://github.com/EnzoDangioMota.png?size=96" width="72" alt="Perfil de Enzo Mota"><br><strong>Enzo Mota</strong><br><sub>@EnzoDangioMota</sub></a></td>
