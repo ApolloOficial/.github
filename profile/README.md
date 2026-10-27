@@ -1,7 +1,17 @@
-# ☀️ ApolloOficial
+# ☀️ Apollo
 
 <p align="center">
-  <strong>Plataforma integrada para gestão de ativos fotovoltaicos</strong>
+  <strong>Plataforma integrada para gestão de ativos fotovoltaicos</strong><br>
+  Operação, manutenção e análise em um ecossistema conectado.
+</p>
+
+<p align="center">
+  <img alt="Apollo" src="https://img.shields.io/badge/APOLLO-Energia_Solar-F15A24?style=for-the-badge&labelColor=292929">
+</p>
+
+<p align="center">
+  <a href="#ecossistema">Ecossistema</a> ·
+  <a href="#equipes-e-repositórios">Equipes e repositórios</a>
 </p>
 
 <p align="center">
@@ -13,36 +23,43 @@
   <img alt="Databricks" src="https://img.shields.io/badge/Databricks-Analytics-FF3621?logo=databricks&logoColor=white">
 </p>
 
-A Apollo reúne aplicações para apoiar equipes que operam e fazem a manutenção de sistemas solares. Cada repositório cuida de uma parte da plataforma, desde o uso diário até integrações, análise de dados e migração.
-
 ---
 
-## Como funciona
+## Ecossistema
 
-- **Operação:** Web e Mobile consomem a Apollo API, que centraliza as regras de negócio e os dados operacionais.
-- **Assistente:** o Chatbot ApolloAI oferece orientação conversacional e integra-se à API.
-- **Análise:** o Apollo BI combina dados operacionais do PostgreSQL com eventos de uso do MongoDB e alimenta os indicadores exibidos na Web.
-- **Serviços de apoio:** o Access Log API registra acessos, e o RPA auxilia na migração de dados legados.
+Uma iniciativa interdisciplinar desenvolvida por equipes do primeiro e do segundo ano, com requisitos distintos e entregas complementares.
 
-```text
-Técnicos e gestores → Apollo Web / Apollo Mobile → Apollo API → PostgreSQL
-                                                       └→ Chatbot ApolloAI
-PostgreSQL + eventos mobile no MongoDB → Apollo BI → indicadores na Web
-Banco legado → RPA de migração → banco Apollo
+```mermaid
+flowchart LR
+    people["Técnicos e gestores"] --> web["Apollo Web"]
+    people --> mobile["Apollo Mobile"]
+    web --> api["Apollo API"]
+    mobile --> api
+    api --> postgres[("PostgreSQL")]
+    api --> assistant["Chatbot ApolloAI"]
+    postgres --> bi["Apollo BI"]
+    events["Eventos mobile - MongoDB"] --> bi
+    bi --> indicators["Indicadores na Web"]
+    indicators --> web
+    legacy["Banco legado"] --> rpa["RPA de migração"]
+    rpa --> postgres
+    visitors["Visitantes e equipes"] --> crud["apollo-web-crud"]
 ```
 
-## Repositórios
+## Equipes e repositórios
 
-| Repositório | Responsabilidade |
-| --- | --- |
-| [Apollo-Web](https://github.com/ApolloOficial/Apollo-Web) | Painel web para ativos, filiais, alertas, ordens de serviço, realocações e indicadores. React, TypeScript e Vite. |
-| [apollo-web-crud](https://github.com/ApolloOficial/apollo-web-crud) | Projeto da equipe do primeiro ano: landing page e área restrita com operações CRUD. |
-| [Apollo-Mobile](https://github.com/ApolloOficial/Apollo-Mobile) | Aplicativo Android de apoio aos técnicos em campo, com consulta de ativos, leitura de códigos e gestão de problemas e ordens de serviço. |
-| [Apollo-API-Spring](https://github.com/ApolloOficial/Apollo-API-Spring) | API REST central para autenticação e operações de negócio. Java, Spring Boot e PostgreSQL. |
-| [Chatbot-ApolloAI](https://github.com/ApolloOficial/Chatbot-ApolloAI) | Assistente conversacional integrado à plataforma, com agentes, RAG e memória de conversa. Flask, LangChain/LangGraph, Qdrant, MongoDB e Redis. |
-| [Access-Log-Api](https://github.com/ApolloOficial/Access-Log-Api) | Serviço para registro e consulta de acessos, com Spring Boot e MongoDB. |
-| [Apollo-BI](https://github.com/ApolloOficial/Apollo-BI) | Pipeline de dados e indicadores para o dashboard, usando Databricks, PySpark e Delta Lake. |
-| [RPA-data-migration](https://github.com/ApolloOficial/RPA-data-migration) | Automação Python para validar e migrar cadastros do banco legado para o Apollo. |
+O **primeiro ano** desenvolve a landing page e a área restrita com operações CRUD. O **segundo ano** desenvolve os sistemas integrados de operação, inteligência artificial, dados e serviços de apoio.
+
+| Repositório | Equipe | Responsabilidade e tecnologias |
+| --- | --- | --- |
+| [Apollo-Web](https://github.com/ApolloOficial/Apollo-Web) | 2º ano | Painel para ativos, filiais, alertas, ordens de serviço, realocações e indicadores. React, TypeScript e Vite. |
+| [apollo-web-crud](https://github.com/ApolloOficial/apollo-web-crud) | 1º ano | Landing page e área restrita com operações CRUD. |
+| [Apollo-Mobile](https://github.com/ApolloOficial/Apollo-Mobile) | 2º ano | Aplicativo Android para técnicos em campo: consulta de ativos, leitura de códigos e gestão de problemas e ordens de serviço. |
+| [Apollo-API-Spring](https://github.com/ApolloOficial/Apollo-API-Spring) | 2º ano | API REST central para autenticação e operações de negócio. Java, Spring Boot e PostgreSQL. |
+| [Chatbot-ApolloAI](https://github.com/ApolloOficial/Chatbot-ApolloAI) | 2º ano | Assistente conversacional integrado à plataforma, com agentes, RAG e memória. Flask, LangChain/LangGraph, Qdrant, MongoDB e Redis. |
+| [Access-Log-Api](https://github.com/ApolloOficial/Access-Log-Api) | 2º ano | Serviço para registro e consulta de acessos. Spring Boot e MongoDB. |
+| [Apollo-BI](https://github.com/ApolloOficial/Apollo-BI) | 2º ano | Pipeline de dados e indicadores para o dashboard. Databricks, PySpark e Delta Lake. |
+| [RPA-data-migration](https://github.com/ApolloOficial/RPA-data-migration) | 2º ano | Automação para validar e migrar cadastros do banco legado para o Apollo. Python. |
 
 ---
 
