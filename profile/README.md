@@ -36,6 +36,7 @@ Banco legado → RPA de migração → banco Apollo
 | Repositório | Responsabilidade |
 | --- | --- |
 | [Apollo-Web](https://github.com/ApolloOficial/Apollo-Web) | Painel web para ativos, filiais, alertas, ordens de serviço, realocações e indicadores. React, TypeScript e Vite. |
+| [Apollo Web CRUD](https://github.com/ApolloOficial/apollo-web-crud) | Aplicação web CRUD do projeto Apollo desenvolvido no primeiro ano. |
 | [Apollo-Mobile](https://github.com/ApolloOficial/Apollo-Mobile) | Aplicativo Android de apoio aos técnicos em campo, com consulta de ativos, leitura de códigos e gestão de problemas e ordens de serviço. |
 | [Apollo-API-Spring](https://github.com/ApolloOficial/Apollo-API-Spring) | API REST central para autenticação e operações de negócio. Java, Spring Boot e PostgreSQL. |
 | [Chatbot-ApolloAI](https://github.com/ApolloOficial/Chatbot-ApolloAI) | Assistente conversacional integrado à plataforma, com agentes, RAG e memória de conversa. Flask, LangChain/LangGraph, Qdrant, MongoDB e Redis. |
