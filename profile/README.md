@@ -11,7 +11,8 @@
 
 <p align="center">
   <a href="#ecossistema">Ecossistema</a> ·
-  <a href="#equipes-e-repositórios">Equipes e repositórios</a>
+  <a href="#equipes-e-repositórios">Equipes e repositórios</a> ·
+  <a href="#integrantes">Integrantes</a>
 </p>
 
 <p align="center">
@@ -66,6 +67,33 @@ O **primeiro ano** desenvolve a landing page e a área restrita com operações 
 | [Access-Log-Api](https://github.com/ApolloOficial/Access-Log-Api) | 2º ano | Serviço para registro e consulta de acessos. Spring Boot e MongoDB. |
 | [Apollo-BI](https://github.com/ApolloOficial/Apollo-BI) | 2º ano | Pipeline de dados e indicadores para o dashboard. Databricks, PySpark e Delta Lake. |
 | [RPA-data-migration](https://github.com/ApolloOficial/RPA-data-migration) | 2º ano | Automação para validar e migrar cadastros do banco legado para o Apollo. Python. |
+
+## Integrantes
+
+Perfis públicos das 12 contas listadas como membros da organização no GitHub.
+
+<table width="100%">
+  <tr>
+    <td align="center"><a href="https://github.com/apollooficial2026-arch"><img src="https://github.com/apollooficial2026-arch.png?size=96" width="72" alt="Perfil de apollooficial2026-arch"><br><strong>apollooficial2026-arch</strong><br><sub>@apollooficial2026-arch</sub></a></td>
+    <td align="center"><a href="https://github.com/EnzoDangioMota"><img src="https://github.com/EnzoDangioMota.png?size=96" width="72" alt="Perfil de Enzo Mota"><br><strong>Enzo Mota</strong><br><sub>@EnzoDangioMota</sub></a></td>
+    <td align="center"><a href="https://github.com/giquirino"><img src="https://github.com/giquirino.png?size=96" width="72" alt="Perfil de Gi Quirino"><br><strong>Gi Quirino</strong><br><sub>@giquirino</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/GuiMontonii"><img src="https://github.com/GuiMontonii.png?size=96" width="72" alt="Perfil de Guilherme Montoni"><br><strong>Guilherme Montoni</strong><br><sub>@GuiMontonii</sub></a></td>
+    <td align="center"><a href="https://github.com/ikarobueno05"><img src="https://github.com/ikarobueno05.png?size=96" width="72" alt="Perfil de GitIki"><br><strong>GitIki</strong><br><sub>@ikarobueno05</sub></a></td>
+    <td align="center"><a href="https://github.com/matheusbotana"><img src="https://github.com/matheusbotana.png?size=96" width="72" alt="Perfil de Matheus Botana"><br><strong>Matheus Botana</strong><br><sub>@matheusbotana</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Migs345"><img src="https://github.com/Migs345.png?size=96" width="72" alt="Perfil de Migs345"><br><strong>Migs345</strong><br><sub>@Migs345</sub></a></td>
+    <td align="center"><a href="https://github.com/Nichiruto0"><img src="https://github.com/Nichiruto0.png?size=96" width="72" alt="Perfil de Nich Kim"><br><strong>Nich Kim</strong><br><sub>@Nichiruto0</sub></a></td>
+    <td align="center"><a href="https://github.com/pczr"><img src="https://github.com/pczr.png?size=96" width="72" alt="Perfil de pczr"><br><strong>pczr</strong><br><sub>@pczr</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Sabor-Fernandex"><img src="https://github.com/Sabor-Fernandex.png?size=96" width="72" alt="Perfil de Fernandes"><br><strong>Fernandes</strong><br><sub>@Sabor-Fernandex</sub></a></td>
+    <td align="center"><a href="https://github.com/senmdz"><img src="https://github.com/senmdz.png?size=96" width="72" alt="Perfil de Pedro Sena"><br><strong>Pedro Sena</strong><br><sub>@senmdz</sub></a></td>
+    <td align="center"><a href="https://github.com/yasbenevenuto"><img src="https://github.com/yasbenevenuto.png?size=96" width="72" alt="Perfil de Yasmin Benevenuto"><br><strong>Yasmin Benevenuto</strong><br><sub>@yasbenevenuto</sub></a></td>
+  </tr>
+</table>
 
 ---
 
