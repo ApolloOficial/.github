@@ -73,17 +73,18 @@ Perfis públicos dos 11 integrantes, com links para as contas pessoais no GitHub
     <td align="center"><a href="https://github.com/EnzoDangioMota"><img src="https://github.com/EnzoDangioMota.png?size=96" width="72" alt="Perfil de Enzo Mota"><br><strong>Enzo Mota</strong><br><sub>@EnzoDangioMota</sub></a></td>
     <td align="center"><a href="https://github.com/giquirino"><img src="https://github.com/giquirino.png?size=96" width="72" alt="Perfil de Gi Quirino"><br><strong>Gi Quirino</strong><br><sub>@giquirino</sub></a></td>
     <td align="center"><a href="https://github.com/GuiMontonii"><img src="https://github.com/GuiMontonii.png?size=96" width="72" alt="Perfil de Guilherme Montoni"><br><strong>Guilherme Montoni</strong><br><sub>@GuiMontonii</sub></a></td>
-    <td align="center"><a href="https://github.com/ikarobueno05"><img src="https://github.com/ikarobueno05.png?size=96" width="72" alt="Perfil de GitIki"><br><strong>GitIki</strong><br><sub>@ikarobueno05</sub></a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/ikarobueno05"><img src="https://github.com/ikarobueno05.png?size=96" width="72" alt="Perfil de Ikaro Bueno"><br><strong>Ikaro Bueno</strong><br><sub>@ikarobueno05</sub></a></td>
     <td align="center"><a href="https://github.com/matheusbotana"><img src="https://github.com/matheusbotana.png?size=96" width="72" alt="Perfil de Matheus Botana"><br><strong>Matheus Botana</strong><br><sub>@matheusbotana</sub></a></td>
-    <td align="center"><a href="https://github.com/Migs345"><img src="https://github.com/Migs345.png?size=96" width="72" alt="Perfil de Migs345"><br><strong>Migs345</strong><br><sub>@Migs345</sub></a></td>
-    <td align="center"><a href="https://github.com/Nichiruto0"><img src="https://github.com/Nichiruto0.png?size=96" width="72" alt="Perfil de Nich Kim"><br><strong>Nich Kim</strong><br><sub>@Nichiruto0</sub></a></td>
-    <td align="center"><a href="https://github.com/pczr"><img src="https://github.com/pczr.png?size=96" width="72" alt="Perfil de pczr"><br><strong>pczr</strong><br><sub>@pczr</sub></a></td>
+    <td align="center"><a href="https://github.com/Migs345"><img src="https://github.com/Migs345.png?size=96" width="72" alt="Perfil de Miguel Bastos"><br><strong>Miguel Bastos</strong><br><sub>@Migs345</sub></a></td>
   </tr>
   <tr>
-    <td></td>
-    <td align="center"><a href="https://github.com/Sabor-Fernandex"><img src="https://github.com/Sabor-Fernandex.png?size=96" width="72" alt="Perfil de Fernandes"><br><strong>Fernandes</strong><br><sub>@Sabor-Fernandex</sub></a></td>
+    <td align="center"><a href="https://github.com/Nichiruto0"><img src="https://github.com/Nichiruto0.png?size=96" width="72" alt="Perfil de Nicholas Kim"><br><strong>Nicholas Kim</strong><br><sub>@Nichiruto0</sub></a></td>
+    <td align="center"><a href="https://github.com/pczr"><img src="https://github.com/pczr.png?size=96" width="72" alt="Perfil de Pedro Augusto"><br><strong>Pedro Augusto</strong><br><sub>@pczr</sub></a></td>
+    <td align="center"><a href="https://github.com/Sabor-Fernandex"><img src="https://github.com/Sabor-Fernandex.png?size=96" width="72" alt="Perfil de Davi Fernandes"><br><strong>Davi Fernandes</strong><br><sub>@Sabor-Fernandex</sub></a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/senmdz"><img src="https://github.com/senmdz.png?size=96" width="72" alt="Perfil de Pedro Sena"><br><strong>Pedro Sena</strong><br><sub>@senmdz</sub></a></td>
     <td align="center"><a href="https://github.com/yasbenevenuto"><img src="https://github.com/yasbenevenuto.png?size=96" width="72" alt="Perfil de Yasmin Benevenuto"><br><strong>Yasmin Benevenuto</strong><br><sub>@yasbenevenuto</sub></a></td>
   </tr>
