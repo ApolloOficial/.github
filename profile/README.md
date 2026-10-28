@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  <img alt="Logo Apollo com raios solares animados" src="https://raw.githubusercontent.com/ApolloOficial/.github/33fb8e2d5247be6f4941ddd9098c519c2ce2a213/assets/apollo-solar.svg" width="760">
-</p>
-
-<p align="center">
   <a href="#ecossistema">Ecossistema</a> ·
   <a href="#equipes-e-repositórios">Equipes e repositórios</a> ·
   <a href="#integrantes">Integrantes</a>
